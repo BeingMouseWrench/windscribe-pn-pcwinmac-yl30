@@ -1,4 +1,4 @@
-# 
+# 极速 Windscribe VPN 附加组件 Mac OS版 | 高级 Windscribe VPN 附加组件 PC Windows版。集成 双重VPN 和 追踪器拦截，跨平台性能最大化。
 
 
 
